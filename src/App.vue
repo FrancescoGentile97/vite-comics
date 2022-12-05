@@ -22,6 +22,7 @@ export default {
   <Credits></Credits>
 </template>
 
-<style>
+<style lang="scss">
+@use "styles/general.scss";
 
 </style>
